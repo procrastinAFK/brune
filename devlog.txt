@@ -1,0 +1,9 @@
+christineC -- 2026-05-01 05:56
+TASK ZETA
+* Primary VM
+  - IP Address: 64.225.53.206
+  - Domain: brunes.me
+* Wipe box clean (re-image)? | NO
+* Serve multiple apps concurrently? | NO
+* Flask|Node? | Flask
+* Has any team member provisioned SSL certificates to facilitate httpS traffic? | YES
